@@ -1,0 +1,7 @@
+
+repositories:
+  master3_bt:
+    type: git
+    url: https://github.com/cord-burmeister/master3_bt.git
+    version: main
+
